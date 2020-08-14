@@ -176,7 +176,7 @@ See the excel file for all projected statistics and additional player informatio
 | 167  | 140.7 | Madison Bumgarner     | SP             | 1.94            | Low Risk        |
 | 168  | 146.6 | Jose Leclerc          | RP             | 1.93            | Med Risk        |
 | 169  | 251.3 | Luis Arraez           | 2B, OF         | 1.92            | Stable          |
-| 170  | 597.9 | Jameson Taillon       | 1.91           | Not Enough Data |
+| 170  | 597.9 | Jameson Taillon       | SP             | 1.91            | Not Enough Data |
 | 171  | 211.6 | Joe Musgrove          | SP             | 1.91            | Low Risk        |
 | 172  | 283.9 | Joey Votto            | 1B             | 1.89            | Low Upside      |
 | 173  | 173.8 | Mallex Smith          | OF             | 1.88            | Stable          |
@@ -210,12 +210,12 @@ See the excel file for all projected statistics and additional player informatio
 | 201  | 282.7 | Yonny Chirinos        | SP, RP         | 1.32            | Low Upside      |
 | 202  | 255.3 | David Peralta         | OF             | 1.29            | Low Upside      |
 | 203  | 230.4 | Ryan Yarbrough        | RP, SP         | 1.27            | Stable          |
-| 204  | 513   | Chris Archer          | 1.24           | Not Enough Data |
+| 204  | 513   | Chris Archer          | SP             | 1.24            | Not Enough Data |
 | 205  | 270.3 | Jon Gray              | SP             | 1.22            | Low Risk        |
 | 206  | 196   | Christian Walker      | 1B             | 1.22            | Stable          |
 | 207  | 256   | Eric Hosmer           | 1B             | 1.2             | Stable          |
 | 208  | 248.8 | Dansby Swanson        | SS             | 1.2             | Low Upside      |
-| 209  | 266.1 | Shogo Akiyama         | 1.19           | Low Upside      |
+| 209  | 266.1 | Shogo Akiyama         | OF             | 1.19            | Low Upside      |
 | 210  | 601   | Ian Miller            |                | 1.17            | Not Enough Data |
 | 211  | 171.1 | Ryan McMahon          | 2B, 3B         | 1.17            | Low Risk        |
 | 212  | 87.9  | Gary Sanchez          | C              | 1.16            | Low Upside      |
@@ -231,7 +231,7 @@ See the excel file for all projected statistics and additional player informatio
 | 222  | 191   | Hunter Dozier         | 3B, OF         | 1               | Stable          |
 | 223  | 325.7 | Ryan Pressly          | RP             | 0.99            | Stable          |
 | 224  | 201   | Luke Weaver           | SP             | 0.99            | Low Upside      |
-| 225  | 583.2 | Felipe Vazquez        | 0.98           | Not Enough Data |
+| 225  | 583.2 | Felipe Vazquez        || 0.98           | Not Enough Data |
 | 226  | 227.3 | Brian Anderson        | 3B, OF         | 0.98            | Stable          |
 | 227  | 223   | Ross Stripling        | RP, SP         | 0.96            | Low Upside      |
 | 228  | 272.3 | Miles Mikolas         | SP             | 0.95            | Low Upside      |
