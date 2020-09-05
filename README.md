@@ -2,7 +2,7 @@
 
 Rankings designed for a snake draft in an ESPN H2H Categories league, with a standard scoring system.  
 Projections from nine systems - ATC, ESPN, FanGraphs Depth Charts, NumberFire, Razzball, Steamer, THE BAT, THE BAT X, and ZiPS - are combined to produce a consensus player ranking, with potential boom/bust notes added based on the sample skewness of projections for individual players.  
-See the excel file for all projected statistics and additional player information.
+See excel file for all projected statistics and additional player information, and Python notebook for backend calculation of Player Ratings.
 
 ## Top 300 Players
 | Rank | ADP   | Name                  | Position   | Rating          | Notes           |
