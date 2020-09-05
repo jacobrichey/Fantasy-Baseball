@@ -11,8 +11,8 @@ See the excel file for all projected statistics and additional player informatio
 | 2    | 1.6   | Christian Yelich      | OF         | 11.32           | Stable          |
 | 3    | 6.1   | Gerrit Cole           | SP         | 10.24           | Med Upside      |
 | 4    | 6     | Mike Trout            | OF         | 10.15           | Stable          |
-| 5    | 4     | Cody Bellinger        | OF, 1B     | 9.9             | Stable          |
-| 6    | 4.9   | Mookie Betts          | OF         | 9.5             | Stable          |
+| 5    | 4     | Cody Bellinger        | OF, 1B     | 9.90            | Stable          |
+| 6    | 4.9   | Mookie Betts          | OF         | 9.50            | Stable          |
 | 7    | 7.8   | Trea Turner           | SS         | 9.39            | Low Upside      |
 | 8    | 7.3   | Francisco Lindor      | SS         | 9.24            | Stable          |
 | 9    | 15.3  | Justin Verlander      | SP         | 9.05            | Med Upside      |
@@ -24,15 +24,15 @@ See the excel file for all projected statistics and additional player informatio
 | 15   | 12    | Trevor Story          | SS         | 8.34            | Low Risk        |
 | 16   | 23.2  | J.D. Martinez         | OF, DH     | 7.78            | Low Risk        |
 | 17   | 23.6  | Rafael Devers         | 3B         | 7.74            | Low Risk        |
-| 18   | 17.2  | Alex Bregman          | 3B, SS     | 7.4             | Stable          |
+| 18   | 17.2  | Alex Bregman          | 3B, SS     | 7.40            | Stable          |
 | 19   | 39.7  | Jose Altuve           | 2B         | 7.22            | Stable          |
 | 20   | 19.6  | Bryce Harper          | OF         | 7.01            | Stable          |
 | 21   | 27.3  | Starling Marte        | OF         | 6.75            | Stable          |
 | 22   | 14.9  | Walker Buehler        | SP         | 6.72            | Low Upside      |
 | 23   | 33.8  | Javier Baez           | SS         | 6.62            | Stable          |
-| 24   | 25.4  | Shane Bieber          | SP         | 6.6             | Stable          |
+| 24   | 25.4  | Shane Bieber          | SP         | 6.60            | Stable          |
 | 25   | 32.4  | Ozzie Albies          | 2B         | 6.57            | Stable          |
-| 26   | 28.3  | Stephen Strasburg     | SP         | 6.5             | Stable          |
+| 26   | 28.3  | Stephen Strasburg     | SP         | 6.50            | Stable          |
 | 27   | 17.3  | Fernando Tatis Jr.    | SS         | 6.31            | Med Risk        |
 | 28   | 47.1  | George Springer       | OF         | 6.28            | Stable          |
 | 29   | 48.9  | Charlie Morton        | SP         | 6.23            | Stable          |
@@ -48,13 +48,13 @@ See the excel file for all projected statistics and additional player informatio
 | 39   | 25.6  | Anthony Rendon        | 3B         | 5.76            | Low Upside      |
 | 40   | 39.2  | Ketel Marte           | OF, 2B     | 5.74            | Stable          |
 | 41   | 99.9  | Marcell Ozuna         | OF         | 5.64            | Low Risk        |
-| 42   | 64.9  | Charlie Blackmon      | OF         | 5.4             | Stable          |
-| 43   | 60.6  | Nelson Cruz           | DH         | 5.4             | Low Risk        |
-| 44   | 33.3  | Peter Alonso          | 1B         | 5.4             | Stable          |
+| 42   | 64.9  | Charlie Blackmon      | OF         | 5.40            | Stable          |
+| 43   | 60.6  | Nelson Cruz           | DH         | 5.40            | Low Risk        |
+| 44   | 33.3  | Peter Alonso          | 1B         | 5.40            | Stable          |
 | 45   | 75.3  | Anthony Rizzo         | 1B         | 5.31            | Stable          |
 | 46   | 37.2  | Keston Hiura          | 2B         | 5.27            | Stable          |
 | 47   | 47.1  | Bo Bichette           | SS         | 5.25            | Stable          |
-| 48   | 67.3  | Giancarlo Stanton     | OF         | 5.2             | Low Upside      |
+| 48   | 67.3  | Giancarlo Stanton     | OF         | 5.20            | Low Upside      |
 | 49   | 57.8  | Yordan Alvarez        | DH         | 5.16            | Stable          |
 | 50   | 44.5  | Josh Hader            | RP         | 5.15            | Med Risk        |
 | 51   | 63.2  | Whit Merrifield       | 2B, OF     | 5.14            | Stable          |
@@ -64,17 +64,17 @@ See the excel file for all projected statistics and additional player informatio
 | 55   | 37.5  | Austin Meadows        | OF, DH     | 5.04            | Stable          |
 | 56   | 47.3  | Lucas Giolito         | SP         | 5.02            | Low Upside      |
 | 57   | 78.3  | Paul Goldschmidt      | 1B         | 4.96            | Stable          |
-| 58   | 67.3  | Victor Robles         | OF         | 4.9             | Stable          |
+| 58   | 67.3  | Victor Robles         | OF         | 4.90            | Stable          |
 | 59   | 47.5  | Patrick Corbin        | SP         | 4.89            | Stable          |
 | 60   | 100.4 | Eddie Rosario         | OF         | 4.82            | Stable          |
 | 61   | 74.8  | Jose Abreu            | 1B, DH     | 4.78            | Stable          |
 | 62   | 59.9  | Eloy Jimenez          | OF         | 4.77            | Low Upside      |
 | 63   | 96.3  | Marcus Semien         | SS         | 4.76            | Low Risk        |
 | 64   | 71    | Yoan Moncada          | 3B         | 4.64            | Low Upside      |
-| 65   | 41.6  | Luis Castillo         | SP         | 4.6             | Stable          |
+| 65   | 41.6  | Luis Castillo         | SP         | 4.60            | Stable          |
 | 66   | 75.9  | Eugenio Suarez        | 3B         | 4.59            | Low Upside      |
 | 67   | 62.3  | Aaron Judge           | OF         | 4.58            | Low Risk        |
-| 68   | 52.7  | Chris Paddack         | SP         | 4.5             | Stable          |
+| 68   | 52.7  | Chris Paddack         | SP         | 4.50            | Stable          |
 | 69   | 77.8  | Nicholas Castellanos  | OF         | 4.46            | Med Risk        |
 | 70   | 70.1  | Tyler Glasnow         | SP         | 4.45            | Stable          |
 | 71   | 40.3  | Jonathan Villar       | 2B, SS     | 4.37            | Low Upside      |
@@ -84,11 +84,11 @@ See the excel file for all projected statistics and additional player informatio
 | 75   | 129.9 | Carlos Carrasco       | SP, RP     | 4.24            | Stable          |
 | 76   | 53    | Yu Darvish            | SP         | 4.23            | Stable          |
 | 77   | 98.3  | Josh Bell             | 1B         | 4.22            | Med Upside      |
-| 78   | 95.9  | James Paxton          | SP         | 4.2             | Stable          |
+| 78   | 95.9  | James Paxton          | SP         | 4.20            | Stable          |
 | 79   | 96.7  | Mike Moustakas        | 3B, 2B     | 4.18            | Low Upside      |
 | 80   | 60.7  | Kirby Yates           | RP         | 4.16            | Med Risk        |
 | 81   | 87    | Josh Donaldson        | 3B         | 4.12            | Stable          |
-| 82   | 93.1  | Jeff McNeil           | OF, 2B, 3B | 4.1             | Stable          |
+| 82   | 93.1  | Jeff McNeil           | OF, 2B, 3B | 4.10            | Stable          |
 | 83   | 162.6 | Jorge Polanco         | SS         | 4.05            | Low Risk        |
 | 84   | 120.4 | Andrew Benintendi     | OF         | 4.01            | Stable          |
 | 85   | 56.9  | Vladimir Guerrero Jr. | 3B, DH     | 4.01            | Low Risk        |
@@ -108,7 +108,7 @@ See the excel file for all projected statistics and additional player informatio
 | 99   | 152.5 | Justin Turner         | 3B         | 3.47            | Low Risk        |
 | 100  | 121.4 | Kyle Schwarber        | OF         | 3.45            | Low Upside      |
 | 101  | 160.1 | Yuli Gurriel          | 1B, 3B     | 3.42            | Stable          |
-| 102  | 76.7  | Aroldis Chapman       | RP         | 3.4             | Med Risk        |
+| 102  | 76.7  | Aroldis Chapman       | RP         | 3.40            | Med Risk        |
 | 103  | 95.5  | Corey Kluber          | SP         | 3.38            | Low Upside      |
 | 104  | 49.2  | Matt Olson            | 1B         | 3.32            | Low Risk        |
 | 105  | 84    | Kenley Jansen         | RP         | 3.28            | Low Risk        |
@@ -118,7 +118,7 @@ See the excel file for all projected statistics and additional player informatio
 | 109  | 142.1 | Carlos Santana        | 1B, DH     | 3.24            | Stable          |
 | 110  | 128   | Michael Conforto      | OF         | 3.23            | Stable          |
 | 111  | 146.1 | Max Kepler            | OF         | 3.21            | Low Risk        |
-| 112  | 205.9 | Ryan Braun            | OF         | 3.2             | Stable          |
+| 112  | 205.9 | Ryan Braun            | OF         | 3.20            | Stable          |
 | 113  | 83.1  | Ramon Laureano        | OF         | 3.19            | Low Upside      |
 | 114  | 148.8 | Elvis Andrus          | SS         | 3.18            | Stable          |
 | 115  | 83.8  | Taylor Rogers         | RP         | 3.17            | Med Risk        |
@@ -145,7 +145,7 @@ See the excel file for all projected statistics and additional player informatio
 | 136  | 95.8  | Joey Gallo            | OF         | 2.76            | Stable          |
 | 137  | 171.9 | Mike Minor            | SP         | 2.76            | Med Upside      |
 | 138  | 195.7 | Andrew Heaney         | SP         | 2.76            | Stable          |
-| 139  | 163.3 | Lance McCullers Jr.   | SP         | 2.7             | Med Risk        |
+| 139  | 163.3 | Lance McCullers Jr.   | SP         | 2.70            | Med Risk        |
 | 140  | 169.9 | Eduardo Rodriguez     | SP         | 2.66            | Low Upside      |
 | 141  | 150.7 | Kyle Hendricks        | SP         | 2.59            | Stable          |
 | 142  | 97.7  | Jesus Luzardo         | RP         | 2.55            | Stable          |
@@ -166,11 +166,11 @@ See the excel file for all projected statistics and additional player informatio
 | 157  | 257.8 | Howie Kendrick        | 1B, 2B     | 2.26            | Low Risk        |
 | 158  | 235.3 | Didi Gregorius        | SS         | 2.14            | Stable          |
 | 159  | 125.3 | Julio Urias           | RP, SP     | 2.11            | Med Risk        |
-| 160  | 172.7 | Gavin Lux             | 2B         | 2.1             | Stable          |
+| 160  | 172.7 | Gavin Lux             | 2B         | 2.10            | Stable          |
 | 161  | 169.5 | Khris Davis           | DH         | 2.09            | Stable          |
 | 162  | 163   | Edwin Encarnacion     | 1B, DH     | 2.05            | Stable          |
 | 163  | 213.4 | Dylan Bundy           | SP         | 2.02            | Stable          |
-| 164  | 232.1 | Masahiro Tanaka       | SP         | 2               | Stable          |
+| 164  | 232.1 | Masahiro Tanaka       | SP         | 2.00            | Stable          |
 | 165  | 121.8 | Miguel Sano           | 3B         | 1.98            | Stable          |
 | 166  | 140.7 | Madison Bumgarner     | SP         | 1.94            | Low Risk        |
 | 167  | 146.6 | Jose Leclerc          | RP         | 1.93            | Med Risk        |
@@ -185,7 +185,7 @@ See the excel file for all projected statistics and additional player informatio
 | 176  | 208.6 | Marcus Stroman        | SP         | 1.77            | Low Upside      |
 | 177  | 244.8 | Daniel Murphy         | 1B         | 1.77            | Low Risk        |
 | 178  | 224.3 | Kolten Wong           | 2B         | 1.72            | Stable          |
-| 179  | 214.5 | A.J. Puk              | RP         | 1.7             | Low Risk        |
+| 179  | 214.5 | A.J. Puk              | RP         | 1.70            | Low Risk        |
 | 180  | 228.4 | Rougned Odor          | 2B         | 1.69            | Low Risk        |
 | 181  | 196.7 | Nick Senzel           | OF         | 1.68            | Stable          |
 | 182  | 148.8 | Archie Bradley        | RP         | 1.67            | Med Risk        |
@@ -194,15 +194,15 @@ See the excel file for all projected statistics and additional player informatio
 | 185  | 177.8 | Keone Kela            | RP         | 1.65            | Med Risk        |
 | 186  | 175.6 | Joe Jimenez           | RP         | 1.62            | Low Risk        |
 | 187  | 183.9 | Kyle Tucker           | OF         | 1.62            | High Upside     |
-| 188  | 130.4 | Tommy Edman           | 3B, 2B     | 1.6             | Stable          |
+| 188  | 130.4 | Tommy Edman           | 3B, 2B     | 1.60            | Stable          |
 | 189  | 195.3 | Kevin Newman          | SS, 2B     | 1.58            | Stable          |
 | 190  | 132   | Alex Colome           | RP         | 1.56            | Med Risk        |
 | 191  | 206.1 | Justin Upton          | OF         | 1.53            | Stable          |
-| 192  | 205.1 | Brandon Lowe          | 2B         | 1.5             | Low Risk        |
+| 192  | 205.1 | Brandon Lowe          | 2B         | 1.50            | Low Risk        |
 | 193  | 224.1 | Jose Urquidy          | SP         | 1.45            | Stable          |
 | 194  | 378.6 | Jonathan Schoop       | 2B         | 1.43            | Stable          |
 | 195  | 178.6 | Sean Doolittle        | RP         | 1.42            | Low Risk        |
-| 196  | 203.5 | Giovanny Gallegos     | RP         | 1.4             | Low Risk        |
+| 196  | 203.5 | Giovanny Gallegos     | RP         | 1.40            | Low Risk        |
 | 197  | 132.6 | Hansel Robles         | RP         | 1.34            | Med Risk        |
 | 198  | 161.6 | J.D. Davis            | OF, 3B     | 1.32            | Stable          |
 | 199  | 282.7 | Yonny Chirinos        | SP, RP     | 1.32            | Low Upside      |
@@ -210,8 +210,8 @@ See the excel file for all projected statistics and additional player informatio
 | 201  | 230.4 | Ryan Yarbrough        | RP, SP     | 1.27            | Stable          |
 | 202  | 270.3 | Jon Gray              | SP         | 1.22            | Low Risk        |
 | 203  | 196   | Christian Walker      | 1B         | 1.22            | Stable          |
-| 204  | 256   | Eric Hosmer           | 1B         | 1.2             | Stable          |
-| 205  | 248.8 | Dansby Swanson        | SS         | 1.2             | Low Upside      |
+| 204  | 256   | Eric Hosmer           | 1B         | 1.20            | Stable          |
+| 205  | 248.8 | Dansby Swanson        | SS         | 1.20            | Low Upside      |
 | 206  | 266.1 | Shogo Akiyama         | OF         | 1.19            | Low Upside      |
 | 207  | 601   | Ian Miller            | OF         | 1.17            | Not Enough Data |
 | 208  | 171.1 | Ryan McMahon          | 2B, 3B     | 1.17            | Low Risk        |
@@ -224,57 +224,57 @@ See the excel file for all projected statistics and additional player informatio
 | 215  | 285.1 | Dallas Keuchel        | SP         | 1.09            | Stable          |
 | 216  | 247.8 | Caleb Smith           | SP         | 1.09            | Stable          |
 | 217  | 528.8 | Marco Gonzales        | SP         | 1.08            | Stable          |
-| 218  | 291.8 | Emilio Pagan          | RP         | 1.02            | Stable          |
-| 219  | 191   | Hunter Dozier         | 3B, OF     | 1               | Stable          |
-| 220  | 325.7 | Ryan Pressly          | RP         | 0.99            | Stable          |
-| 221  | 201   | Luke Weaver           | SP         | 0.99            | Low Upside      |
-| 222  | 227.3 | Brian Anderson        | 3B, OF     | 0.98            | Stable          |
-| 223  | 223   | Ross Stripling        | RP, SP     | 0.96            | Low Upside      |
-| 224  | 272.3 | Miles Mikolas         | SP         | 0.95            | Low Upside      |
-| 225  | 125   | Cavan Biggio          | 2B         | 0.9             | Stable          |
-| 226  | 257   | Joey Lucchesi         | SP         | 0.83            | Stable          |
-| 227  | 299.2 | A.J. Pollock          | OF         | 0.83            | Stable          |
-| 228  | 339.5 | Diego Castillo        | RP, SP     | 0.81            | Stable          |
-| 229  | 228.2 | Shin-Soo Choo         | OF, DH     | 0.8             | Low Risk        |
-| 230  | 211.8 | Mike Foltynewicz      | SP         | 0.8             | Stable          |
-| 231  | 256.3 | Nomar Mazara          | OF         | 0.79            | Low Risk        |
-| 232  | 237.8 | Wil Myers             | OF         | 0.78            | Stable          |
-| 233  | 180   | Ian Kennedy           | RP         | 0.77            | High Risk       |
-| 234  | 243.6 | Giovanny Urshela      | 3B         | 0.75            | Stable          |
-| 235  | 428.4 | Willy Adames          | SS         | 0.75            | Low Risk        |
-| 236  | 518.1 | Andrelton Simmons     | SS         | 0.75            | Low Risk        |
-| 237  | 246.6 | Dustin May            | RP         | 0.75            | Low Upside      |
-| 238  | 476.2 | Kwang-hyun Kim        | RP         | 0.75            | Stable          |
-| 239  | 292.2 | Renato Nunez          | 1B, DH     | 0.74            | Stable          |
-| 240  | 453.1 | Rick Porcello         | SP         | 0.73            | Stable          |
-| 241  | 241.8 | Alex Wood             | SP         | 0.72            | Low Upside      |
-| 242  | 306   | Corey Dickerson       | OF         | 0.68            | Stable          |
-| 243  | 600.8 | Adolis Garcia         | OF         | 0.66            | Not Enough Data |
-| 244  | 291.8 | Gregory Polanco       | OF         | 0.65            | Stable          |
-| 245  | 185.8 | Willie Calhoun        | OF         | 0.65            | Low Risk        |
-| 246  | 395   | Kevin Gausman         | SP, RP     | 0.64            | Low Upside      |
-| 247  | 558.9 | Adam Frazier          | 2B         | 0.64            | Stable          |
-| 248  | 179.5 | Mark Melancon         | RP         | 0.63            | Low Risk        |
-| 249  | 276.9 | Hunter Renfroe        | OF         | 0.61            | Stable          |
-| 250  | 519.5 | Matt Barnes           | RP         | 0.58            | Stable          |
-| 251  | 588.8 | Seth Beer             | 1B         | 0.55            | Not Enough Data |
-| 252  | 533.4 | Hanser Alberto        | 2B, 3B     | 0.53            | Stable          |
-| 253  | 238.3 | Mark Canha            | OF         | 0.52            | Low Risk        |
-| 254  | 319.7 | Tony Watson           | RP         | 0.52            | Low Risk        |
-| 255  | 276.8 | Austin Hays           | OF         | 0.52            | Low Risk        |
-| 256  | 599.7 | Abraham Toro          | 3B, DH     | 0.51            | Not Enough Data |
-| 257  | 110.3 | Yasmani Grandal       | C, 1B      | 0.51            | Stable          |
-| 258  | 575.9 | Cedric Mullins II     | OF         | 0.51            | Not Enough Data |
-| 259  | 288.3 | Nick Solak            | DH         | 0.5             | Low Upside      |
-| 260  | 230.2 | Adrian Houser         | SP, RP     | 0.5             | Low Risk        |
-| 261  | 116.2 | Willson Contreras     | C          | 0.49            | Stable          |
-| 262  | 175.1 | Will Smith            |            | 0.49            | Stable          |
+| 218  | 175.1 | Will Smith            | RP         | 1.06            | Low Risk        |
+| 219  | 291.8 | Emilio Pagan          | RP         | 1.02            | Stable          |
+| 220  | 191   | Hunter Dozier         | 3B, OF     | 1.00            | Stable          |
+| 221  | 325.7 | Ryan Pressly          | RP         | 0.99            | Stable          |
+| 222  | 201   | Luke Weaver           | SP         | 0.99            | Low Upside      |
+| 223  | 227.3 | Brian Anderson        | 3B, OF     | 0.98            | Stable          |
+| 224  | 223   | Ross Stripling        | RP, SP     | 0.96            | Low Upside      |
+| 225  | 272.3 | Miles Mikolas         | SP         | 0.95            | Low Upside      |
+| 226  | 125   | Cavan Biggio          | 2B         | 0.90            | Stable          |
+| 227  | 257   | Joey Lucchesi         | SP         | 0.83            | Stable          |
+| 228  | 299.2 | A.J. Pollock          | OF         | 0.83            | Stable          |
+| 229  | 339.5 | Diego Castillo        | RP, SP     | 0.81            | Stable          |
+| 230  | 228.2 | Shin-Soo Choo         | OF, DH     | 0.80            | Low Risk        |
+| 231  | 211.8 | Mike Foltynewicz      | SP         | 0.80            | Stable          |
+| 232  | 256.3 | Nomar Mazara          | OF         | 0.79            | Low Risk        |
+| 233  | 237.8 | Wil Myers             | OF         | 0.78            | Stable          |
+| 234  | 180   | Ian Kennedy           | RP         | 0.77            | High Risk       |
+| 235  | 243.6 | Giovanny Urshela      | 3B         | 0.75            | Stable          |
+| 236  | 428.4 | Willy Adames          | SS         | 0.75            | Low Risk        |
+| 237  | 518.1 | Andrelton Simmons     | SS         | 0.75            | Low Risk        |
+| 238  | 246.6 | Dustin May            | RP         | 0.75            | Low Upside      |
+| 239  | 476.2 | Kwang-hyun Kim        | RP, SP     | 0.75            | Stable          |
+| 240  | 292.2 | Renato Nunez          | 1B, DH     | 0.74            | Stable          |
+| 241  | 453.1 | Rick Porcello         | SP         | 0.73            | Stable          |
+| 242  | 241.8 | Alex Wood             | SP         | 0.72            | Low Upside      |
+| 243  | 306   | Corey Dickerson       | OF         | 0.68            | Stable          |
+| 244  | 600.8 | Adolis Garcia         | OF         | 0.66            | Not Enough Data |
+| 245  | 291.8 | Gregory Polanco       | OF         | 0.65            | Stable          |
+| 246  | 185.8 | Willie Calhoun        | OF         | 0.65            | Low Risk        |
+| 247  | 395   | Kevin Gausman         | SP, RP     | 0.64            | Low Upside      |
+| 248  | 558.9 | Adam Frazier          | 2B         | 0.64            | Stable          |
+| 249  | 179.5 | Mark Melancon         | RP         | 0.63            | Low Risk        |
+| 250  | 276.9 | Hunter Renfroe        | OF         | 0.61            | Stable          |
+| 251  | 519.5 | Matt Barnes           | RP         | 0.58            | Stable          |
+| 252  | 588.8 | Seth Beer             | 1B         | 0.55            | Not Enough Data |
+| 253  | 533.4 | Hanser Alberto        | 2B, 3B     | 0.53            | Stable          |
+| 254  | 238.3 | Mark Canha            | OF         | 0.52            | Low Risk        |
+| 255  | 319.7 | Tony Watson           | RP         | 0.52            | Low Risk        |
+| 256  | 276.8 | Austin Hays           | OF         | 0.52            | Low Risk        |
+| 257  | 599.7 | Abraham Toro          | 3B, DH     | 0.51            | Not Enough Data |
+| 258  | 110.3 | Yasmani Grandal       | C, 1B      | 0.51            | Stable          |
+| 259  | 575.9 | Cedric Mullins II     | OF         | 0.51            | Not Enough Data |
+| 260  | 288.3 | Nick Solak            | DH         | 0.50            | Low Upside      |
+| 261  | 230.2 | Adrian Houser         | SP, RP     | 0.50            | Low Risk        |
+| 262  | 116.2 | Willson Contreras     | C          | 0.49            | Stable          |
 | 263  | 280.2 | Miguel Andujar        | DH         | 0.44            | Low Risk        |
 | 264  | 264.8 | Seth Lugo             | RP         | 0.43            | Low Risk        |
-| 265  | 472.7 | Anthony Santander     | OF         | 0.4             | Low Upside      |
+| 265  | 472.7 | Anthony Santander     | OF         | 0.40            | Low Upside      |
 | 266  | 403.4 | Dellin Betances       | RP         | 0.39            | Stable          |
 | 267  | 555.3 | Nick Ahmed            | SS         | 0.39            | Stable          |
-| 268  | 600.7 | Odubel Herrera        | 0.38       | Not Enough Data |
+| 268  | 600.7 | Odubel Herrera        | OF         | 0.38            | Not Enough Data |
 | 269  | 325.4 | J.A. Happ             | SP         | 0.38            | Low Risk        |
 | 270  | 317.1 | Mychal Givens         | RP         | 0.38            | Stable          |
 | 271  | 599   | Colin Poche           | RP         | 0.33            | Stable          |
@@ -290,19 +290,19 @@ See the excel file for all projected statistics and additional player informatio
 | 281  | 449   | Kyle Seager           | 3B         | 0.26            | Stable          |
 | 282  | 407.8 | Eric Thames           | 1B         | 0.25            | Stable          |
 | 283  | 589   | Jakob Junis           | SP         | 0.23            | Low Risk        |
-| 284  | 202.1 | Yasiel Puig           |            | 0.23            | Low Upside      |
+| 284  | 202.1 | Yasiel Puig           | OF         | 0.23            | Low Upside      |
 | 285  | 327.3 | Griffin Canning       | SP         | 0.21            | Low Upside      |
-| 286  | 347.9 | Josh Lindblom         | SP         | 0.2             | Low Risk        |
-| 287  | 524   | Jurickson Profar      | 2B         | 0.2             | Stable          |
+| 286  | 347.9 | Josh Lindblom         | SP         | 0.20            | Low Risk        |
+| 287  | 524   | Jurickson Profar      | 2B         | 0.20            | Stable          |
 | 288  | 328.9 | Trent Grisham         | OF         | 0.15            | Stable          |
 | 289  | 566   | Jason Heyward         | OF         | 0.15            | Stable          |
-| 290  | 600.2 | Jeter Downs           | 0.14       | Not Enough Data |
+| 290  | 600.2 | Jeter Downs           | SS         | 0.14            | Not Enough Data |
 | 291  | 281.8 | Niko Goodrum          | SS, 2B, OF | 0.12            | Low Risk        |
 | 292  | 445.2 | Kole Calhoun          | OF         | 0.12            | Low Upside      |
 | 293  | 540   | Austin Adams          | RP         | 0.11            | Stable          |
 | 294  | 256.5 | Ian Happ              | OF         | 0.11            | Stable          |
-| 295  | 187.3 | Luke Voit             | 1B, DH     | 0.1             | Stable          |
-| 296  | 600.3 | Adam Jones            | 0.09       | Not Enough Data |
+| 295  | 187.3 | Luke Voit             | 1B, DH     | 0.10            | Stable          |
+| 296  | 600.3 | Adam Jones            | OF         | 0.09            | Not Enough Data |
 | 297  | 570.7 | Ty Buttrey            | RP         | 0.06            | Stable          |
 | 298  | 396.5 | Brendan McKay         | SP         | 0.05            | Med Risk        |
 | 299  | 320.9 | Cole Hamels           | SP         | 0.03            | Low Risk        |
